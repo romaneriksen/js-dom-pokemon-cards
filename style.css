@@ -32,6 +32,8 @@ h2 {
   justify-content: center;
   justify-items: center;
 
+  list-style-type: none;
+
   padding: 2rem 0;
   margin-bottom: 2rem;
 }
@@ -55,7 +57,7 @@ h2 {
 .card--text {
   margin: 0.2rem;
   padding: 1rem;
-
+  list-style-type: none;
   border-radius: 5px;
 }
 
